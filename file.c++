@@ -2,5 +2,9 @@ include <iostream>
 using namespace std;
 
 int main(){
-    cout<<"Welcome to C++";
+    cout<<"Welcome ya brance!";
+    cout<<"Welcome ya brance!";
+    cout<<"Welcome ya brance!";
+    cout<<"Welcome ya brance!";
+
 }
